@@ -1,0 +1,10 @@
+.c-input-field,
+.c-check-field {
+	margin-bottom: 12px;
+	margin-bottom: 1.2rem;
+}
+
+.c-button {
+	min-width: 100px;
+	min-width: 10rem;
+}
